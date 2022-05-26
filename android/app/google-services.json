@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "288699524238",
+    "firebase_url": "https://cakejaffna-default-rtdb.firebaseio.com",
+    "project_id": "cakejaffna",
+    "storage_bucket": "cakejaffna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288699524238:android:f19403b3035c458a7ed5df",
+        "android_client_info": {
+          "package_name": "com.academind.CakeDA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288699524238-852bt3s84ee88f6n6nq95d0od7a11rmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI-qpuShyBYtDgy7QwhXySQIKEw5FPjaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288699524238-852bt3s84ee88f6n6nq95d0od7a11rmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

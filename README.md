@@ -31,7 +31,8 @@ cd CakeOrderApp
 flutter run
 ```
 
-#Features that need to deveolop
+# Features that need to deveolop
+
 1. search functionality
 2. cake process tracking 
 3. UX implemntation
@@ -47,8 +48,7 @@ We welcome contributions to this project! To contribute, please follow these ste
 5. Submit a pull request to the original project repository.
 
 
-# it parially done.
-## you can install app by
+# it parially done.   you can install app by
 
 ```
 https://play.google.com/store/apps/details?id=com.academind.CakeDA&hl=en&gl=US
